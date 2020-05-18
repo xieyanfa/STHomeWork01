@@ -118,6 +118,7 @@ public class StudentManager {
 				break;
 			default:
 				System.out.println("没有该操作,请重新输入");
+				break;          //5.14
 			}
 		}	
 	}
